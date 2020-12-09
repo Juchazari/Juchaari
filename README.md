@@ -7,7 +7,7 @@
 ### I am currently:
 * Diving into algorithms and data structures
 * Fidling with advanced React concepts
-* Learning the Serverless architecture with AWS Lambda and other AWS services
+* Learning Serverless architecture with AWS Lambda and other AWS services
 * Working on NAPM "Not another project manager" website
 
 ### Current technical skills:
