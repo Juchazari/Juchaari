@@ -8,7 +8,7 @@
 * Diving into algorithms and data structures
 * Fidling with advanced React concepts
 * Learning Serverless architecture with AWS Lambda and other AWS services
-* Working on NAPM "Not another project manager" website
+* Working on Napm "Not another project manager" web app
 
 ### Technical skills:
 
