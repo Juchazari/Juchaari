@@ -1,5 +1,5 @@
 ## Hey there, Julio Chazari speaking!
-### I'm a Full Stack Web Developer on the path to success 🚀
+### I am a Full Stack Web Developer 🚀 🤓
 * 🏫 I recently graduated from Flatiron School Software Engineering Bootcamp
 * 🖥️ I have a strong passion for anything tech related
 * 👨‍💻 I am always trying to level up my skills either by learning or doing
