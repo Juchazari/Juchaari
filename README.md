@@ -1,5 +1,5 @@
 ## Hey there, Julio Chazari speaking!
-* 🏫 I am a Coding Bootcamp graduate ([Flatiron School](https://flatironschool.com/))
+* 🏫 I am a Coding Bootcamp graduate: [Flatiron School](https://flatironschool.com/)
 * 🖥️ I have a strong passion for anything tech related
 * 👨‍💻 I am currently a Junior Frontend Developer at [iland Cloud](https://www.iland.com/)
 * 📸 I can also take some mean looking pictures: [Photography Website](https://juliochazari-photo.com)
