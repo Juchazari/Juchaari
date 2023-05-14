@@ -1,10 +1,9 @@
-## Heller 👋🏼
-* 🏫 I am a Coding Bootcamp graduate: <a href="https://flatironschool.com/" target="_blank">Flatiron School</a>
-* 🖥️ I have a strong passion for anything tech related
-* 👨‍💻 I am currently a Junior Frontend Developer at <a href="https://www.iland.com/" target="_blank">iland Cloud</a>
-* 📸 I can also take some mean looking pictures: <a href="https://photo.juliochazari.com" target="_blank">Photography Website</a>
+## 👋🏼
+* 🏫 Coding Bootcamp graduate: <a href="https://flatironschool.com/" target="_blank">Flatiron School</a>
+* 🖥️ Strong passion for anything tech related
+* 👨‍💻 Frontend Software Developer at <a href="https://www.iland.com/](https://1111systems.com/" target="_blank">11:11 Systems</a>
 
-### Connect with me!
+### Connect with me
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][LinkedIn]
 [<img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>][Medium]
